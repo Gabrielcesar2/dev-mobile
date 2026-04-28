@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image, Alert } from 'react-native';
-import Civic from "./assets/Civic.jpg"
+import { Image, StyleSheet, Text, View } from 'react-native';
+import Civic from "./assets/Civic.jpg";
 
 
 
